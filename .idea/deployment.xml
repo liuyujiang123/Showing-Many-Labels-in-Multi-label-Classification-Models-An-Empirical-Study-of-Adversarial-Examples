@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lyj@10.249.46.31:8333 password (5)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lyj@10.249.46.31:8333 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lyj/MLHA-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lyj@10.249.46.31:8333 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lyj@10.249.46.31:8333 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lyj/MLSA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lyj@10.249.46.31:8333 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lyj@10.249.46.31:8333 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lyj/MLSA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
